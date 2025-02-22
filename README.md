@@ -30,4 +30,3 @@ This is a basic banking system application built with Python and Gradio. It prov
 
 ## License
 This project is licensed under the MIT License.
-This project is part of a college assignment.
